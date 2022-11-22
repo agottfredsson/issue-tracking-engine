@@ -1,6 +1,6 @@
 # Issue Tracking Engine
 
-yarn install\
+yarn install
 
 # Run tests
 
