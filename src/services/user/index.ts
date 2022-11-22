@@ -1,4 +1,4 @@
-import UserService from "./userService";
+import UserService from "./UserService";
 
 export * from "./types";
 export { UserService };

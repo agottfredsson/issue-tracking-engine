@@ -12,6 +12,9 @@ const init = () => {
   userService.addUser("James Cordon");
   userService.addUser("Daniel Craig");
   userService.addUser("Steve Jobs");
+
+  console.log("Issues: ", issueService.getIssues());
+  console.log("Users: ", userService.getUsers());
 };
 
 init();
